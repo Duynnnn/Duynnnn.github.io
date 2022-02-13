@@ -26,10 +26,10 @@
   /* height: 100vh; */
   z-index: 0;
   background-repeat: no-repeat;
-  background-image: url(../img/puung3.jpg);
+  background-image: url(../img/iune.jpg);
   background-size: cover;
   background-position: 50%;
-  -webkit-filter: blur(4px);
+  -webkit-filter: blur(1px);
 }
 .swal2-title, .swal2-content{
   color: azure !important;
@@ -59,7 +59,7 @@ header h4 {
   header h4 {
     font-family: 'Pacifico';
     text-align: center;
-    padding: 15px;
+    padding: 25px;
   }
   #no{
     position: absolute;
